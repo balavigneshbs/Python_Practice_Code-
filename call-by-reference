@@ -1,0 +1,7 @@
+def sum(a):
+    a[0] = 6
+    print(a)
+
+a=[1,2,3]
+sum(a)
+print(a)
